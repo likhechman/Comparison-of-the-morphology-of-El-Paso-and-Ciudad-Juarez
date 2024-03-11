@@ -1,13 +1,9 @@
-# Methodological Foundation of a Numerical Taxonomy of Urban Form
-Code repository for the **Methodological Foundation of a Numerical Taxonomy of Urban
-Form** paper.
+# Comparison of the morphology of El Paso and Ciudad Juarez
+Code repository for the **Comparison of the morphology of El Paso and Ciudad Juarez** paper.
 
-> Fleischmann M, Feliciotti A, Romice O and Porta S (2021) Methodological Foundation of
-> a Numerical Taxonomy of Urban Form. Environment and Planning B: Urban Analytics and
-> City Science, doi: [10.1177/23998083211059835](https://doi.org/10.1177/23998083211059835)
+> Kaluzhak A. D. Comparison of the morphology of El Paso and Ciudad Juarez - 2024
 
-Martin Fleischmann<sup>1, 2</sup>, Alessandra Feliciotti<sup>2</sup>, Ombretta
-Romice<sup>2</sup>, Sergio Porta<sup>2</sup>
+Kaluzhak A. D.<sup>1
 
 1 Department of Geography and Planning, University of Liverpool
 
