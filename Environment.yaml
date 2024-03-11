@@ -1,0 +1,7 @@
+name: data preparation
+channels:
+  - conda-forge
+dependencies:
+  - pandas==2.2.1
+  - geopandas==0.14.3
+  - shapely==2.0.3
