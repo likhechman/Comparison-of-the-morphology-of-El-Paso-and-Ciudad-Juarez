@@ -3,9 +3,7 @@ Code repository for the **Comparison of the morphology of El Paso and Ciudad Jua
 
 > Kaluzhak A. D. Comparison of the morphology of El Paso and Ciudad Juarez - 2024
 
-Kaluzhak A. D.<sup>1
-
-1 Faculty of Geography and Geoinformation Technology
+Kaluzhak A. D. Faculty of Geography and Geoinformation Technology
 
 Contact: ddkaluzhak@edu.hse.ru
 
