@@ -9,7 +9,7 @@ Contact: ddkaluzhak@edu.hse.ru
 
 Date: 11/03/2024
 
-The online interactive maps of the final classification are available at [https://martinfleis.github.io/numerical-taxonomy-maps/](https://martinfleis.github.io/numerical-taxonomy-maps/).
+The online interactive maps of the final classification are available at [https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1](https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1).
 
 ## Code
 
@@ -44,5 +44,5 @@ Non-proprietary data are archived on figshare as
 archive contains input geometry, generated geometry, all measured morphometric
 characters and a final classification labels for El Paso and Ciudad Juarez.
 
-The online interactive maps of the final classification are available at [https://martinfleis.github.io/numerical-taxonomy-maps/](https://martinfleis.github.io/numerical-taxonomy-maps/).
+The online interactive maps of the final classification are available at [https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1](https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1).
 
