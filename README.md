@@ -20,7 +20,7 @@ Python code for everyone willing to use the method.
 
 ### The method
 The folder `code` contains generalised code for the method, that should be
-reproducible on a custom data. The main notebook `main_code.ipynb` has
+reproducible on a custom data. The main notebook `main-code.ipynb` has
 been updated to work with the recent releases of software. You can create the
 reproducible environment to run it using `conda` or `mamba` and the `environment.yaml`
 file in the `code` folder.
@@ -42,7 +42,7 @@ conda install momepy mapclassify seaborn
 ## Data
 
 Non-proprietary data are archived on figshare as
-[ https://disk.yandex.ru/d/FCDGCTQAGu3h2Q]( https://disk.yandex.ru/d/FCDGCTQAGu3h2Q). The
+[ https://disk.yandex.ru/d/FCDGCTQAGu3h2Q](https://disk.yandex.ru/d/FCDGCTQAGu3h2Q). The
 archive contains input geometry, generated geometry, all measured morphometric
 characters and a final classification labels for El Paso and Ciudad Juarez.
 
