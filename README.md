@@ -42,7 +42,7 @@ conda install momepy mapclassify seaborn
 ## Data
 
 Non-proprietary data are archived on figshare as
-[10.6084/m9.figshare.16897102](https://doi.org/10.6084/m9.figshare.16897102). The
+[ https://disk.yandex.ru/d/FCDGCTQAGu3h2Q]( https://disk.yandex.ru/d/FCDGCTQAGu3h2Q). The
 archive contains input geometry, generated geometry, all measured morphometric
 characters and a final classification labels for El Paso and Ciudad Juarez.
 
