@@ -9,7 +9,7 @@ Contact: ddkaluzhak@edu.hse.ru
 
 Date: 11/03/2024
 
-[![maps](map_example.jpg)](https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1)
+[![map](map_example.jpg)]
 
 The online interactive maps of the final classification are available at [https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1](https://gymnasiumtsu.maps.arcgis.com/apps/instant/basic/index.html?appid=3ee8011f7a194ab7b67bcc2ae6c59da1).
 
